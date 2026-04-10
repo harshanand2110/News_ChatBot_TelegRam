@@ -10,8 +10,8 @@ import requests
 
 
 
-BOT_TOKEN = "8673411522:AAFH6tQLKeY_3IWrckBeavO0LjzDPXYVZzQ"       # From @BotFather
-CHAT_ID   = "594894817"        # Your chat/group ID
+BOT_TOKEN = "Use Bot TOKEN here"       # From @BotFather
+CHAT_ID   = "Use Chat ID"        # Your chat/group ID
 NEWS_API_KEY = ""                            # Optional – newsapi.org key
 
 # Topics to track (used for NewsAPI keyword search)
